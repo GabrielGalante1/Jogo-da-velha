@@ -1,0 +1,14 @@
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha\bin\Release\net8.0\Jogo de velha.exe
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha\bin\Release\net8.0\Jogo de velha.deps.json
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha\bin\Release\net8.0\Jogo de velha.runtimeconfig.json
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha\bin\Release\net8.0\Jogo de velha.dll
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha\bin\Release\net8.0\Jogo de velha.pdb
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha\obj\Release\net8.0\Jogo de velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha\obj\Release\net8.0\Jogo de velha.AssemblyInfoInputs.cache
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha\obj\Release\net8.0\Jogo de velha.AssemblyInfo.cs
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha\obj\Release\net8.0\Jogo de velha.csproj.CoreCompileInputs.cache
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha\obj\Release\net8.0\Jogo de velha.dll
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha\obj\Release\net8.0\refint\Jogo de velha.dll
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha\obj\Release\net8.0\Jogo de velha.pdb
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha\obj\Release\net8.0\Jogo de velha.genruntimeconfig.cache
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha\obj\Release\net8.0\ref\Jogo de velha.dll

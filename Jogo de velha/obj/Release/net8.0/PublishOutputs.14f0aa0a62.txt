@@ -1,0 +1,5 @@
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha.exe
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha.dll
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha.deps.json
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha.runtimeconfig.json
+C:\Users\bielm\OneDrive\Área de Trabalho\C#\Jogo de velha\Jogo de velha.pdb
