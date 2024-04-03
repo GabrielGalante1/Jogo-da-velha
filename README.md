@@ -10,4 +10,7 @@ O jogo da velha é indicado para jogar com uma pessoa a mais, mas não tem probl
 Como executa-lo?
 </h1>
 
-Eu não disponibizarei um executável deste programa, por conta do peso dele
+Eu não disponibizarei um executável deste programa no Github por conta do peso do .exe produzido. Por isso, disponibilizarei o link do download dele via Mediafire. O arquivo é autossuficiente e não precisa de nenhuma dependência para ser executado.
+
+Aproveite ;)
+https://www.mediafire.com/file/0ksrydpyn33xuuo/Jogo+de+velha.exe/file
